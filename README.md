@@ -16,4 +16,3 @@
 # HTML CSS
 1. techer.open-in-browser，用于调试写的前端代码，右键打开浏览器
 2. formulahendry.auto-rename-tag，用于自动的更新tag
-3. 
