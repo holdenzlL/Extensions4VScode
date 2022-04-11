@@ -10,6 +10,7 @@
 3. goessner.mdmath，添加对md的数学支持
 4. yzhang.markdown-all-in-one，提供md文档的支持
 5. xavierguarch.auto-markdown-toc，添加tOC,虽然allinone插件里也有，但是这个比较好看，用的顺手
+6. shd101wyy.markdown-preview-enhanced，添加高亮代码块
 
 
 # HTML CSS
