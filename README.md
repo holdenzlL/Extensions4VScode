@@ -8,9 +8,8 @@
 1. znck.grammarly，用于调用grammarly api来纠错语法
 2. Spades.vs-picgo，用于图床的设置
 3. goessner.mdmath，添加对md的数学支持
-4. darkriszty.markdown-table-prettify，md文档的表格格式化
-5. yzhang.markdown-all-in-one，提供md文档的支持
-6. xavierguarch.auto-markdown-toc，添加tOC,虽然allinone插件里也有，但是这个比较好看，用的顺手
+4. yzhang.markdown-all-in-one，提供md文档的支持
+5. xavierguarch.auto-markdown-toc，添加tOC,虽然allinone插件里也有，但是这个比较好看，用的顺手
 
 
 # HTML CSS
